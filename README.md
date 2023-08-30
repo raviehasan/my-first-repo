@@ -5,3 +5,5 @@ NPM     : 2206031864
 Kelas   : PBP A
 
 Hobi : Tidur
+
+Jurusan : Ilmu Komputer
